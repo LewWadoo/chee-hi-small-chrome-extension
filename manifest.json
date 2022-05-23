@@ -1,0 +1,15 @@
+{
+  "name": "CheeHi Rent Guesser",
+  "description": "Search hotels based upon current tab title.",
+  "version": "0.1",
+  "manifest_version": 3,
+  "author": "Eugene Mikhaylov",
+  "action": {
+    "default_icon": "chee.png",
+    "default_popup": "chee.html",
+    "default_title": "CheeHi Rent Guesser"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
